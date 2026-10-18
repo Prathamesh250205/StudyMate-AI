@@ -65,6 +65,3 @@ Set `SMTP_URL` (e.g. `smtps://user:pass@smtp.example.com:465`), `MAIL_FROM` and 
 ## Production
 `cd client && npm run build`, then `cd server && npm start` serves the API and the built client on :3000.
 
-## Team
-
-Built as a team project with Shrikant Rathod and Pradnesh. Original repository: [Study-Mate-AI/StudyMate-AI](https://github.com/Study-Mate-AI/StudyMate-AI).
